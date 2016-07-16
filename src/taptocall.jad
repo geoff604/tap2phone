@@ -1,0 +1,8 @@
+MIDlet-Name: tapToCall
+MIDlet-Version: 0.0.1
+MIDlet-Vendor: Geoff Peters
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: taptocall.jar
+MIDlet-Jar-Size: 16599
+MIDlet-1: TapToCall, , tapToCall.TapToCall

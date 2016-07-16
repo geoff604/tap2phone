@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<root>
+  <command_handler name="taptocall.CommandHandler"/>
+  <components>
+    <component name="taptocall.taptocall">
+    <type name="javax.microedition.midlet.MIDlet"/>
+    <location x="100" y="100"/>
+  </components>
+  <connections/>
+</root>
